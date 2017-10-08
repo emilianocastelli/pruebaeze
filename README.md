@@ -1,2 +1,2 @@
-# pruebaeze
-## pruebaeze
+# Bueas practicas
+## de CSS
